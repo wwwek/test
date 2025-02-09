@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://wwwek.github.io/test</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://wwwek.github.io/test</link></image><lastBuildDate>Sun, 09 Feb 2025 11:15:42 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>关于我的博客的那些事</title><link>https://wwwek.github.io/test/post/guan-yu-wo-de-bo-ke-de-na-xie-shi.html</link><description>2025-2-9-正月十二-日记
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://wwwek.github.io/test</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://wwwek.github.io/test</link></image><lastBuildDate>Sun, 09 Feb 2025 12:09:18 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>惨痛经历</title><link>https://wwwek.github.io/test/post/can-tong-jing-li.html</link><description>今天我整了一天的宝塔 结果一开始安了半天提示内存不足（需要1400mb 我只有1000mb 是debian12）
+我足足等了40min啊😱
+我根本没有想到安装宝塔都能够卡住我
+后来我又换了个vps 然后看到不知道谁的步骤 先重新安装了vps 整了个纯净系统 然后我不抱希望的把大佬给的debai安装宝塔代码扔进去之后 竟然成功进去了 而且速度也很快 然后我一进宝塔后台发现 一下子那个6/24G的给我占用了一半
+应该是直接给宝塔安装进去了
+这里的时候我还很高兴
+我以为很快就能用Work pages自己搭建一个博客了
+结果我那域名 整出来的网站死活打不开 我实在是不知道到底应该怎么配置A CHAM# TXT NS 文件了 我无论如何尝试 一直搞了一天都整不出来 是不是跟我用的clouddns免费域名有关？评论区有大佬求指导(๑&gt;؂&lt;๑）
+然后我就去github上搜库 然后fork一下 看着图文教程 我依然失败了 例如这个
+wwwek.github.io
+这个里边的博客全是大佬自己上传的 我拼尽全力也只是改了一个标题 我写了的那个不知道为什么传不上来
+然后又去youthub找了个视频整了一个github 人人都可以会用的模板
+是先fork一下 然后把你的仓库设置改一个成为github #### 什么的
+然后你直接在交bug的地方给写博客 也能打标签
+最后的最后 还是在线网站（就是这个）比较好 有大佬一键搭建（只用按10-1-2就行）我才能够搭建一个这个出来 感谢大佬 大佬改变世界!
+就这样 加纳（｡ò ∀ ó｡）
+。</description><guid isPermaLink="true">https://wwwek.github.io/test/post/can-tong-jing-li.html</guid><pubDate>Sun, 09 Feb 2025 12:08:47 +0000</pubDate></item><item><title>关于我的博客的那些事</title><link>https://wwwek.github.io/test/post/guan-yu-wo-de-bo-ke-de-na-xie-shi.html</link><description>2025-2-9-正月十二-日记
 
  短短的时间我就通过我的天才失去了一个博客 为了放心博客全部消失 于是看了大佬的攻略 在github上整了一个 相信无论我如何小白也不会把这个给弄垮掉(๑&gt;؂&lt;๑）! #副标题
 
