@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://wwwek.github.io/test</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://wwwek.github.io/test</link></image><lastBuildDate>Sun, 09 Feb 2025 16:47:10 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>第一篇博客</title><link>https://wwwek.github.io/test/post/di-yi-pian-bo-ke.html</link><description>有大佬 太强辣 一键代码就直接整出来了这个
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://wwwek.github.io/test</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://wwwek.github.io/test</link></image><lastBuildDate>Sun, 09 Feb 2025 16:49:08 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>好!</title><link>https://wwwek.github.io/test/post/hao-%21.html</link><description>今天经过稍微总结了一下经验之后 发现了一下不足 于是我申请了一个新的域名重新做dns解析 果然是成功了!（主要是氪金的力量 刚才用clouddns免费域名解析多久网站都ping不上 用了另一个买的几秒ping上 马上连好）
+
+没错!这次没有意外!!有的只是我辉煌的成功!!!哈哈哈哈哈 我终于安了个宝塔整了一个博客了!
+
+不过vps还是有一些太费钱了 所以github也有一个我这里的备份 哪怕以后没有vps了 也是可以找到一个当日记本的地方的!
+
+网站的编辑还是很舒服啊 不过github白嫖才是真香 过几个月永别吧 vps😭
+
+一会顺便试一试这个网站会不会国内墙 明天发我用过的网站的总结 起名叫乱七八糟仓库
+
+就这样 加纳
+
+10 2 月, 2025
+WWWek
+
+未分类
+。</description><guid isPermaLink="true">https://wwwek.github.io/test/post/hao-%21.html</guid><pubDate>Sun, 09 Feb 2025 16:48:47 +0000</pubDate></item><item><title>第一篇博客</title><link>https://wwwek.github.io/test/post/di-yi-pian-bo-ke.html</link><description>有大佬 太强辣 一键代码就直接整出来了这个
 
 大佬太强了 感谢大佬::ೖ(⑅σ̑ᴗσ̑)ೖ::
 
